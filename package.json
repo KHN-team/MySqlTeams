@@ -1,0 +1,20 @@
+{
+  "name": "mysql-script-runner",
+  "version": "1.0.0",
+  "description": "A simple Python application to execute MySQL `.sql` scripts in a specified order.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrayndiB/mysql-script-runner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrayndiB/mysql-script-runner/issues"
+  },
+  "homepage": "https://github.com/BrayndiB/mysql-script-runner#readme"
+}
