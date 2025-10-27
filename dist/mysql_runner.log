@@ -1,0 +1,24 @@
+2025-10-27 09:07:50,593 - INFO - Starting MySQL Script Runner application
+2025-10-27 09:07:50,696 - INFO - GUI created successfully
+2025-10-27 09:07:53,017 - INFO - Test connection button clicked
+2025-10-27 09:07:53,017 - INFO - Testing MySQL server connection
+2025-10-27 09:07:53,938 - INFO - package: mysql.connector.plugins
+2025-10-27 09:07:53,938 - INFO - plugin_name: caching_sha2_password
+2025-10-27 09:07:53,938 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-10-27 09:07:53,979 - INFO - MySQL server connection successful
+2025-10-27 09:07:57,033 - INFO - Run button clicked
+2025-10-27 09:07:57,034 - INFO - User inputs - Database: kupathairnew, Script root: scripts, Order file: files.txt
+2025-10-27 09:07:57,034 - INFO - Testing MySQL server connection
+2025-10-27 09:07:57,868 - INFO - MySQL server connection successful
+2025-10-27 09:07:59,221 - INFO - Starting script execution by order
+2025-10-27 09:07:59,222 - INFO - Database: kupathairnew, Script root: scripts, Order file: files.txt
+2025-10-27 09:07:59,222 - INFO - Checking if database 'kupathairnew' exists
+2025-10-27 09:08:00,513 - INFO - Database 'kupathairnew' already exists
+2025-10-27 09:08:02,914 - INFO - Connected to database 'kupathairnew' successfully
+2025-10-27 09:08:04,315 - INFO - Reading execution order from: files.txt
+2025-10-27 09:08:04,316 - INFO - Parsing execution order file: files.txt
+2025-10-27 09:08:04,316 - ERROR - Order file not found: files.txt
+2025-10-27 09:08:04,316 - ERROR - Error during script execution: Order file not found: files.txt
+2025-10-27 09:08:04,317 - INFO - Database connection closed
+2025-10-27 09:08:04,317 - ERROR - Error occurred: Order file not found: files.txt
+2025-10-27 09:08:06,842 - INFO - Run button re-enabled
